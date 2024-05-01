@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="MainScene" extends="BaseScene">
+  <children>
+    <Label id="myLabel"
+      text="This template has SGDEX implemented"
+      width="1280"
+      height="720"
+      horizAlign="center"
+      vertAlign="center"
+    />
+  </children>
+  <script type="text/brightscript" uri="MainScene.brs" />
+</component>
